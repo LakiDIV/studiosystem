@@ -1,0 +1,19 @@
+B:\Artify Pixels\Application\Artify Pixels\Artify Pixels\bin\Debug\net5.0-windows\Artify Pixels.exe
+B:\Artify Pixels\Application\Artify Pixels\Artify Pixels\bin\Debug\net5.0-windows\Artify Pixels.deps.json
+B:\Artify Pixels\Application\Artify Pixels\Artify Pixels\bin\Debug\net5.0-windows\Artify Pixels.runtimeconfig.json
+B:\Artify Pixels\Application\Artify Pixels\Artify Pixels\bin\Debug\net5.0-windows\Artify Pixels.runtimeconfig.dev.json
+B:\Artify Pixels\Application\Artify Pixels\Artify Pixels\bin\Debug\net5.0-windows\Artify Pixels.dll
+B:\Artify Pixels\Application\Artify Pixels\Artify Pixels\bin\Debug\net5.0-windows\ref\Artify Pixels.dll
+B:\Artify Pixels\Application\Artify Pixels\Artify Pixels\bin\Debug\net5.0-windows\Artify Pixels.pdb
+B:\Artify Pixels\Application\Artify Pixels\Artify Pixels\obj\Debug\net5.0-windows\Artify Pixels.csproj.AssemblyReference.cache
+B:\Artify Pixels\Application\Artify Pixels\Artify Pixels\obj\Debug\net5.0-windows\Artify_Pixels.Form1.resources
+B:\Artify Pixels\Application\Artify Pixels\Artify Pixels\obj\Debug\net5.0-windows\Artify Pixels.csproj.GenerateResource.cache
+B:\Artify Pixels\Application\Artify Pixels\Artify Pixels\obj\Debug\net5.0-windows\Artify Pixels.GeneratedMSBuildEditorConfig.editorconfig
+B:\Artify Pixels\Application\Artify Pixels\Artify Pixels\obj\Debug\net5.0-windows\Artify Pixels.AssemblyInfoInputs.cache
+B:\Artify Pixels\Application\Artify Pixels\Artify Pixels\obj\Debug\net5.0-windows\Artify Pixels.AssemblyInfo.cs
+B:\Artify Pixels\Application\Artify Pixels\Artify Pixels\obj\Debug\net5.0-windows\Artify Pixels.csproj.CoreCompileInputs.cache
+B:\Artify Pixels\Application\Artify Pixels\Artify Pixels\obj\Debug\net5.0-windows\Artify Pixels.dll
+B:\Artify Pixels\Application\Artify Pixels\Artify Pixels\obj\Debug\net5.0-windows\ref\Artify Pixels.dll
+B:\Artify Pixels\Application\Artify Pixels\Artify Pixels\obj\Debug\net5.0-windows\Artify Pixels.pdb
+B:\Artify Pixels\Application\Artify Pixels\Artify Pixels\obj\Debug\net5.0-windows\Artify Pixels.genruntimeconfig.cache
+B:\Artify Pixels\Application\Artify Pixels\Artify Pixels\obj\Debug\net5.0-windows\Artify_Pixels.Properties.Resources.resources
